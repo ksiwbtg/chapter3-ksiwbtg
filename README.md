@@ -3,7 +3,7 @@
 
 ## GitHub演習
 
-![GitHub Flow](img/githubflow.jpg)
+![GitHub Flow](src/main/res/drawable/githubflow.jpg)
 
 ### 1. 課題提出用リポジトリの作成
 1. Moodleから招待リンクをコピーします。
