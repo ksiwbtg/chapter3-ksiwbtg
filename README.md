@@ -38,11 +38,7 @@ git clone https://github.com/アカウント名/課題名-アカウント名.git
     1-1. 「Open an existing Android Studio project」を選択します。
     ![キャプチャ](app/src/main/res/drawable/image12.jpg)  
     1-2. 先ほどローカルに保存したリポジトリを選択し、「OK」を押下します。      
-2. 「activity_main.xml」を開きます。
-![キャプチャ](app/src/main/res/drawable/image14.jpg)
-3. DesignペインでTextView「Hello World!」を選択します。
-4. Propertiesペインでtextを「Hello enPiT」に修正します。
-![キャプチャ](app/src/main/res/drawable/image15.jpg)
+2. 教科書通りにchapter3を進めます。
 
 ### 5. Commit（コミット）
 1. ツールウィンドウ「Version Control」を表示します。
