@@ -29,18 +29,13 @@
 5. URLをペーストしプロジェクトをクローンします。
 ![キャプチャ](app/src/main/res/drawable-v24/clone02.jpg)
 
-### 4. プログラム修正
-1. ローカルにクローンしたリポジトリ「課題名-アカウント名」をAndroid Studioで開きます。  
-    1-1. 「Open an existing Android Studio project」を選択します。
-    ![キャプチャ](app/src/main/res/drawable/image12.jpg)  
-    1-2. 先ほどローカルに保存したリポジトリを選択し、「OK」を押下します。      
-2. 教科書通りにchapter3を進めます。
+### 4. プログラム修正      
+1. 教科書通りにchapter3を進めます。
 
 ### 5. Commit（コミット）
 1. ツールウィンドウ「Version Control」を表示します。
 2. Defaultを右クリック > Commit Changes... をクリックします。
-3. Commit Messageにコメント「TextViewのtextを修正。」を入力し、「Commit」ボタンをクリックします。
-![キャプチャ](app/src/main/res/drawable/image17.jpg)
+3. Commit Messageにコメント「chapter3提出」を入力し、「Commit」ボタンをクリックします。
 
 ### 6. Push（プッシュ）
 1. パンくずリストからプロジェクトのルートフォルダ「課題名-アカウント名」を右クリック > Git > Repository > Push をクリックします。
