@@ -23,11 +23,11 @@
 1. 自分のアカウント上のリポジトリ「課題名-アカウント名」にアクセスします。
 2. 「Clone or download」ボタンをクリックします。
 3. URLをコピーします。
-![キャプチャ](app/src/main/res/drawable/clone00.jpg)
+![キャプチャ](app/src/main/res/drawable-v24/clone00.jpg)
 4. Android Studioを起動し、Check out project from Version Control から git を選択します。
-![キャプチャ](app/src/main/res/drawable/clone01.jpg)
+![キャプチャ](app/src/main/res/drawable-v24/clone01.jpg)
 5. URLをペーストしプロジェクトをクローンします。
-![キャプチャ](app/src/main/res/drawable/clone02.jpg)
+![キャプチャ](app/src/main/res/drawable-v24/clone02.jpg)
 
 ### 4. プログラム修正
 1. ローカルにクローンしたリポジトリ「課題名-アカウント名」をAndroid Studioで開きます。  
