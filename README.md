@@ -23,15 +23,11 @@
 1. 自分のアカウント上のリポジトリ「課題名-アカウント名」にアクセスします。
 2. 「Clone or download」ボタンをクリックします。
 3. URLをコピーします。
-![キャプチャ](app/src/main/res/drawable/image7.jpeg)
-4. Git Bashを起動し、以下のコマンドを実行します。
-課題名とアカウント名は適宜読み替えてください。
-```
-mkdir -p /c/work/yu-enpit
-cd /c/work/yu-enpit
-git clone https://github.com/アカウント名/課題名-アカウント名.git
-```
-5. 自分のアカウント上のリポジトリ「課題名-アカウント名」がローカルに保存されます。
+![キャプチャ](app/src/main/res/drawable/clone00.jpg)
+4. Android Studioを起動し、Check out project from Version Control から git を選択します。
+![キャプチャ](app/src/main/res/drawable/clone01.jpg)
+5. URLをペーストしプロジェクトをクローンします。
+![キャプチャ](app/src/main/res/drawable/clone02.jpg)
 
 ### 4. プログラム修正
 1. ローカルにクローンしたリポジトリ「課題名-アカウント名」をAndroid Studioで開きます。  
